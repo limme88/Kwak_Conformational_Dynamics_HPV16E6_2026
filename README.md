@@ -1,4 +1,4 @@
-# Kwak_Conformational_Dynamics_HPV_16E6_2026
+# Kwak_Conformational_Dynamics_HPV16E6_2026
 
 Code accompanying "**Conformational Dynamics and Disorder of HPV-16 E6**" by Liam Kwak and Roberto A. Garza-López (Pomona College).
 
